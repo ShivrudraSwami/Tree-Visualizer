@@ -2,8 +2,7 @@
 
 An interactive educational tool that visualizes complex Tree Data Structure algorithms in real-time. Built to demonstrate optimization techniques and algorithmic logic using **React** and **Python**.
 
-![Project Demo](https://via.placeholder.com/800x400?text=Tree+Visualizer+Demo)
-*(Note: Replace the link above with a real screenshot of your app later!)*
+<img width="1897" height="894" alt="Image" src="https://github.com/user-attachments/assets/30d51658-4838-475b-bc2d-682986a3466c" />
 
 ## 🚀 Key Features (Resume Highlights)
 - **Interactive Visualization:** Visualizes 5+ complex algorithms including BFS, DFS, ZigZag, Boundary, and Vertical Traversal.
